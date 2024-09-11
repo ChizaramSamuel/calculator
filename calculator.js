@@ -25,10 +25,9 @@ const calculate = (a, b, operator) => {
   }
 
   else('invalid expression');
-  }  //this is the basic syntax of an if function statement
-   //to print, use --- functionName(name of variable);
+  }  
 
    calculate(4, 2, 'divide');
-   calculate(2, 'c', 'divide');
+   calculate(2, '7', 'multiply');
 
    
